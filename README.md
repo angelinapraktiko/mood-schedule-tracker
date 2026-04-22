@@ -19,16 +19,9 @@ Project ini merupakan aplikasi berbasis Command Line Interface (CLI) yang memban
 
 ---
 
-## Teknologi yang Digunakan
+## Tools yang Digunakan
 - Python  
 - Object-Oriented Programming (Class, Method, Encapsulation)  
 - Library: `datetime`, `collections`  
 
----
 
-## Cara Menjalankan
-1. Pastikan Python sudah terinstall  
-2. Jalankan file utama dengan perintah:
-
-```bash
-python main.py
